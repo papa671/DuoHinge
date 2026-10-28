@@ -1,0 +1,7 @@
+.DS_Store
+**/xcuserdata/
+*.xcuserstate
+source/godot
+source/bin/
+source/Pods/
+source/*.xcarchive/
